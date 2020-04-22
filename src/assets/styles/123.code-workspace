@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "D:\\2020\\编程\\编程Html+CSS"
+		},
+		{
+			"path": "D:\\2020\\编程\\JavaScript"
+		},
+		{
+			"path": "C:\\Users\\Administrator\\Desktop\\JS练习"
+		},
+		{
+			"path": "C:\\Users\\Administrator\\Desktop\\临时"
+		},
+		{
+			"path": "C:\\Users\\Administrator\\Desktop\\JS千峰"
+		},
+		{
+			"path": "D:\\2020\\编程\\服务器"
+		},
+		{
+			"path": "D:\\2020\\编程\\数据库"
+		},
+		{
+			"path": "E:\\VScode\\wangzhan\\wangzhan\\htdocs"
+		},
+		{
+			"path": "D:\\2020\\编程\\VUE.JS.2.0"
+		},
+		{
+			"path": "D:\\2020\\编程\\Vue项目\\Travel\\Travel"
+		},
+		{
+			"path": "D:\\2020\\编程\\git\\cangku\\Travel\\src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript"
+	}
+}
