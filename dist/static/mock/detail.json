@@ -1,0 +1,41 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "重庆极地海洋世界(AAAA景区)",
+    "bannerImg": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3971521230,3551955638&fm=26&gp=0.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1611/d2/d2bd037272bc897fa3.water.jpg_r_800x800_b06d038f.jpg", "http://img1.qunarzz.com/sight/p0/1409/12/f1a47d121030ab369662268af2e083ff.jpg_r_800x800_718df0c0.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - XXX连锁店销售",
+            "children": [{
+              "value": "【夏季优惠】",
+              "content": "￥100/人"
+            }]
+          }]
+        },{
+          "title": "成人五馆联票",
+          "children": [{
+            "value": "【团购优惠】",
+            "content": "￥75/人"
+          }]
+        }]
+      }, {
+        "title": "学生票",
+        "children": [{
+          "value": "【夏季优惠】",
+          "content": "￥30/人"
+        }]
+      }, {
+        "title": "儿童票",
+        "children": [{
+          "value": "【限时打折】",
+          "content": "￥15/人"
+        }]
+      }, {
+        "title": "特惠票"
+      }]
+  }
+}
